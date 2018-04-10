@@ -4,6 +4,6 @@
 * Bullet 1
 * Bullet 2
 
-'''
+```
 code block
-'''
+```
